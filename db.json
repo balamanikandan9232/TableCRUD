@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "6",
+      "name": "Sat",
+      "email": "Saty24@gmail.com",
+      "profession": "photo"
+    },
+    {
+      "id": "9",
+      "name": "decs",
+      "email": "sur12@gmail.com",
+      "profession": "It"
+    },
+    {
+      "id": "10",
+      "name": "balamanikandan",
+      "email": "sure@gmail.com",
+      "profession": "It"
+    },
+    {
+      "id": "147",
+      "name": "started",
+      "email": "started@gmail.com",
+      "profession": "start"
+    }
+  ]
+}
